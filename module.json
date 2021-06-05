@@ -12,7 +12,7 @@
       "url": "https://github.com/temportalflux"
     }
   ],
-  "version": "0.3.2",
+  "version": "0.3.3",
   "minimumCoreVersion": "0.6.6",
   "compatibleCoreVersion": "0.7.5",
   "esmodules": [
@@ -24,10 +24,10 @@
   "templates": [
     "./templates/import-youtube-playlist.html"
   ],
-  "url": "https://github.com/casualchameleon/Bellows",
-  "manifest": "https://raw.githubusercontent.com/casualchameleon/Bellows/master/module.json",
-  "download": "https://github.com/casualchameleon/Bellows/releases/download/0.3.2/bellows_0.3.2.zip",
-  "license": "https://github.com/casualchameleon/Bellows/blob/master/LICENSE",
+  "url": "https://github.com/NisseCR/Bellows",
+  "manifest": "https://raw.githubusercontent.com/NisseCR/Bellows/master/module.json",
+  "download": "https://github.com/NisseCR/Bellows/releases/download/0.3.3/bellows_0.3.3.zip",
+  "license": "https://github.com/NisseCR/Bellows/blob/master/LICENSE",
   "socket": true,
   "debugBuildDirectory": "D:\\Documents\\FoundryVTT\\Data\\modules",
   "packageItems": [
